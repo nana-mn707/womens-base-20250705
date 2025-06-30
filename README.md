@@ -1,21 +1,21 @@
 # 🎬 Netflix Clone - Vibe Coding Edition
 
 
-React + Vite で作る、Netflix風の映画一覧アプリです。    
+Netflix風の映画一覧アプリです。    
 楽しくコードを書きながら、映画データの取得・表示を体験してみましょう！
 
 
 ## ⏱️ 流れ
-進め方はすべて [Issues](./issues) に用意されています。  
+進め方はすべてIssuesに用意されています。  
 **順番にIssueを見ながら進めてください！**
 
- - 〜 Step 1：環境構築 〜
+ - [Step1：環境構築](https://github.com/nana-mn707/womens-base-20250705/issues/1)
    - プロジェクトをローカル起動できるようにしよう
- - 〜 Step 2：TMDB APIから映画データを取得 〜
-   - 映画一覧のJSONを取得してみよう
- - 〜 Step 3：映画の画像とタイトルを用いて一覧画面作成 〜
+ - [Step2：映画データを取得するための準備](https://github.com/nana-mn707/womens-base-20250705/issues/2)
+   - 映画データを取得するためにTMDBを登録しよう
+ - [Step.3：映画一覧画面の作成](https://github.com/nana-mn707/womens-base-20250705/issues/3)
    - 実際に見た目を作ってみよう
- - 〜 Step 4：[応用] お気に入り機能や詳細画面にチャレンジ 〜
+ - [Step4：[応用] 機能追加にチャレンジ](https://github.com/nana-mn707/womens-base-20250705/issues/4)
    - チャレンジタスク！自分の工夫を加えてみよう
 
 
