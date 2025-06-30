@@ -1,0 +1,29 @@
+/* ==== 環境構築後、以下削除 ===== */
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f3f6fa;
+}
+
+.message-box {
+  background: #fff;
+  padding: 2.5rem 2rem;
+  border-radius: 1.2rem;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.emoji {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.message-text {
+  font-size: 1.2rem;
+  color: #333;
+  line-height: 1.7;
+}
