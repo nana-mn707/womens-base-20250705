@@ -7,7 +7,7 @@ Netflix風の映画一覧アプリです。
 
 ## ⏱️ 流れ
 進め方はすべてIssuesに用意されています。  
-**順番にIssueを見ながら進めていきます**
+**順番にIssueを見ながら進めていきます。**
 
  - [Step1：環境構築](https://github.com/nana-mn707/womens-base-20250705/issues/1)
    - プロジェクトをローカル起動できるようにしよう
