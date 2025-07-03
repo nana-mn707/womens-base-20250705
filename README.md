@@ -15,7 +15,7 @@ Netflix風の映画一覧アプリです。
    - 映画データを取得するためにTMDBを登録しよう
  - [Step.3：映画一覧画面の作成](https://github.com/nana-mn707/womens-base-20250705/issues/3)
    - 実際に見た目を作ってみよう
- - [Step4：[機能追加にチャレンジ](https://github.com/nana-mn707/womens-base-20250705/issues/4)
+ - [Step4：機能追加にチャレンジ](https://github.com/nana-mn707/womens-base-20250705/issues/4)
    - チャレンジタスク！自分の工夫を加えてみよう
 
 
