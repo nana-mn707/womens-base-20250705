@@ -13,7 +13,7 @@ TMDB APIを用いた映画一覧アプリです。
    - プロジェクトをローカル起動できるようにしよう
  - [Step2：映画データを取得するための準備](https://github.com/nana-mn707/womens-base-20250705/issues/2)
    - 映画データを取得するためにTMDBを登録しよう
- - [Step.3：映画一覧画面の作成](https://github.com/nana-mn707/womens-base-20250705/issues/3)
+ - [Step.3：映画配信アプリ（NetFlix）の作成](https://github.com/nana-mn707/womens-base-20250705/issues/3)
    - 実際に見た目を作ってみよう
- - [Step4：機能追加にチャレンジ](https://github.com/nana-mn707/womens-base-20250705/issues/4)
+ - [Step4：その他映画配信アプリ作成にチャレンジ](https://github.com/nana-mn707/womens-base-20250705/issues/4)
    - チャレンジタスク！自分の工夫を加えてみよう
