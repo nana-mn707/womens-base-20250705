@@ -1,5 +1,5 @@
 ---
-description: "映画アプリ開発用のCursorRules - React + Vite + TMDB APIを使用した映画データベースアプリケーション"
+description:
 globs: 
 alwaysApply: false
 ---
