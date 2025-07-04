@@ -1,7 +1,7 @@
-# 🎬 Netflix Clone - Vibe Coding Edition
+# AI駆動開発勉強会 Women's Base - Vibe Coding
 
 
-Netflix風の映画一覧アプリです。    
+TMDB APIを用いた映画一覧アプリです。    
 楽しくコードを書きながら、映画データの取得・表示を体験してみましょう！
 
 
