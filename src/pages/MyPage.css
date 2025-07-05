@@ -1,0 +1,76 @@
+.mypage {
+  min-height: 100vh;
+  background: #141414;
+  color: white;
+  padding-top: 80px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.mypage-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 0 2rem;
+}
+
+.user-icon {
+  font-size: 3rem;
+  background: #222;
+  border-radius: 50%;
+  width: 64px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.user-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.user-label {
+  color: #aaa;
+  font-size: 1rem;
+}
+
+.favorites-section {
+  padding: 0 2rem;
+}
+
+.section-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.no-favorites {
+  color: #aaa;
+  font-size: 1rem;
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .mypage-header, .favorites-section {
+    padding: 0 0.5rem;
+  }
+  .user-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 2rem;
+  }
+  .user-name {
+    font-size: 1.1rem;
+  }
+  .section-title {
+    font-size: 1rem;
+  }
+} 
